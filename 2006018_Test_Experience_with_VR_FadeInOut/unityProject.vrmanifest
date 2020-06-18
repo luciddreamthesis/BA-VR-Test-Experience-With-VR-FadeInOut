@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.2006015_test_experience_with_vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\luciddreams\\Documents\\GitHub\\BA-VR-Test-Experience-With-VR-FadeInOut\\2006018_Test_Experience_with_VR_FadeInOut\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "2006015_Test_Experience_with_VR [Testing]"
+        }
+      }
+    }
+  ]
+}
