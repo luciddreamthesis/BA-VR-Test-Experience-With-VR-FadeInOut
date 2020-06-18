@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9918cc95d6f248c49b2d079c46993adf
+  - enabled: 1
+    path: Assets/Scenes/FlyVRTest.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c0f7eb3abc38d3841921d2c7c28f7c8c
   m_configObjects: {}
